@@ -1,4 +1,6 @@
-### Hi there 👋 (To be completed)
+<img src="https://www.houston-pc.com/wp-content/uploads/2016/05/Custom-Coding-Houston-TX-Houston-PC-Services.png" height="90" width=100%>
+
+### Hi there 👋
 
 My name is Oriol, I'm an undergraduate student of the Double Degree of Computer Science and Business Administration at the University of Lleida (Spain).
 
@@ -8,9 +10,13 @@ Here you can find some projects I've made on my free-time and for college assign
 
 I wanted to do something visual but, at the same time, I wanted to implement algorithms so I decided to do a A* PathFinder Visualizer. Later on I decided to improve this project by adding more features:
 
-* (Original idea) Be able to draw the walls and erase them and select the initial and end point and the algorithm will find the shortest path.
-* Possibility of adding checkpoints instead of an end point and the algorithm will find out the shortest path between all of them (Travelling Salesman Problem).
-* Zoom. Possibility of making the grid smaller or bigger and be able to zoom-in and be able to draw or erase with more detail.
+⚡ (Original idea) Be able to draw the walls and erase them and select the initial and end point and the algorithm will find the shortest path.
+
+
+⚡ Possibility of adding checkpoints instead of an end point and the algorithm will find out the shortest path between all of them (Travelling Salesman Problem).
+
+
+⚡ Zoom. Possibility of making the grid smaller or bigger and be able to zoom-in and be able to draw or erase with more detail.
 
 The project was done interely in Python, using pygame library for the interface.
 
@@ -22,13 +28,19 @@ It was a university project for the course of "Networks" it consisted on creatin
 
 The topics we have to deal with when working with the project were: Multithreading, communication with pipes, UDP and TCP connections, packing and unpacking of data in different types of PDU's (Protocol Data Units), pointers...
 
+All the debugging messages, the report and the project's statement are in Catalan but the code, function names and variable names, are in English. 
 
-All the debugging messages, the report and the project's statement are in catalan but the code, function names and variable names, are in English. 
+[Repo here! 📫](https://github.com/oriolaguilar/P1X)
+
 
 ## Twitter Clone (kinda)
-...
 
-I have made other "minor" projects such as: an [Unbeatable Tic-Tac-Toe](), projects where I worked with [design patterns](https://github.com/oriolaguilar/2-practica-patrons-disseny), [JUnit testing](https://github.com/oriolaguilar/E-Receipt),...
+It was also a university project, it was an introduction to web developing and we had to do a website with different entities. Those entitites had to be related between them with One-to-Many and Many-to-May relationships. Also we had to be able to create, modify and delete those instancies.
+
+Another important goal of this project was the deployment. We used **Docker**. 
+You can check the repo with all the instructions fo th deployment here: [Repo here! 📫](https://github.com/marcusresa4/Twitter_WP/tree/third-assignment)
+
+I have made other "minor" projects such as: an [Unbeatable Tic-Tac-Toe](), projects where I worked with [**Design Patterns**](https://github.com/oriolaguilar/2-practica-patrons-disseny), [**JUnit testing**](https://github.com/oriolaguilar/E-Receipt),...
 
 
 
