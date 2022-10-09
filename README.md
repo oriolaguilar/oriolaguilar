@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-My name is Oriol, I'm an undergraduate student of the Double Degree of Computer Science and Business Administration at the University of Lleida (Spain).
+I'm Oriol, an enthusiastic Computer Science and Business Administration graduate with both practical and theoretical knowledge, hard-working and highly motivated. Currently, pursuing a MSc in Data Science in order to be able to tackle the new challenges that organizations will face.
 
 Here **you can find some projects** I've made on my free-time and for college assignments:
 
