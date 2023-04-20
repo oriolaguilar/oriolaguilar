@@ -4,7 +4,7 @@
 
 I'm Oriol, an enthusiastic Computer Science and Business Administration graduate with both practical and theoretical knowledge, hard-working and highly motivated. Currently, pursuing a MSc in Data Science in order to be able to tackle the new challenges that organizations will face.
 
-Here **you can find some projects** I've made on my free-time and for college assignments:
+Here **you can find some projects (DISCLAIMER: Not updatet for later projects)** I've made on my free-time and for college assignments:
 
 ## A* PathFinder Visualizer + Travelling Salesman Problem:
 
